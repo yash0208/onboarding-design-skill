@@ -1,0 +1,4 @@
+interface:
+  display_name: "Onboarding Design"
+  short_description: "Design journeys from signup to useful product value"
+  default_prompt: "Use $onboarding-design to plan an evidence-informed onboarding journey and UI for this product."
